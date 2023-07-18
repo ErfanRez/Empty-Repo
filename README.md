@@ -1,3 +1,5 @@
+## In this third React app project, I challenged my React.js skills and built a tenzies game.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
